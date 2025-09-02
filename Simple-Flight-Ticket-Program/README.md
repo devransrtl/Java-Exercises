@@ -38,7 +38,7 @@ java Main
 Distance (km): 100
 Age: 20
 Travel Type (1 = One-way, 2 = Round-trip): 2
-Total ticket price: 180.0₺
+Total ticket price: 180.0$
 ```
 ⚙️ Technical Details:
 
